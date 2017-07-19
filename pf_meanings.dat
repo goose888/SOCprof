@@ -1,0 +1,27 @@
+Value   Definition
+0   No information
+1 - chf   Continuous permafrost extent with high ground ice content and thick overburden
+2 - dhf   Discontinuous permafrost extent with high ground ice content and thick overburden
+3 - shf   Sporadic permafrost extent with high ground ice content and thick overburden
+4 - ihf   Isolated patches of permafrost extent with high ground ice content and thick overburden
+5 - cmf   Continuous permafrost extent with medium ground ice content and thick overburden
+6 - dmf   Discontinuous permafrost extent with medium ground ice content and thick overburden
+7 - smf   Sporadic permafrost extent with medium ground ice content and thick overburden
+8 - imf   Isolated patches of permafrost extent with medium ground ice content and thick overburden
+9 - clf   Continuous permafrost extent with low ground ice content and thick overburden
+10 - dlf  Discontinuous permafrost extent with low ground ice content and thick overburden
+11 - slf  Sporadic permafrost extent with low ground ice content and thick overburden
+12 - ilf  Isolated patches of permafrost extent with low ground ice content and thick overburden
+13 - chr  Continuous permafrost extent with high ground ice content and thin overburden and exposed bedrock
+14 - dhr  Discontinuous permafrost extent with high ground ice content and thin overburden and exposed bedrock
+15 - shr  Sporadic permafrost extent with high ground ice content and thin overburden and exposed bedrock
+16 - ihr  Isolated patches of permafrost extent with high ground ice content and thin overburden and exposed bedrock
+17 - clr  Continuous permafrost extent with low ground ice content and thin overburden and exposed bedrock
+18 - dlr  Discontinuous permafrost extent with low ground ice content and thin overburden and exposed bedrock
+19 - slr  Sporadic permafrost extent with low ground ice content and thin overburden and exposed bedrock
+20 - ilr  Isolated patches of permafrost extent with low ground ice content and thin overburden and exposed bedrock
+21 - g  Glaciers
+22 - r  Relict permafrost
+23 - l  Inland lakes
+24 - o  Ocean/inland seas
+25 - ld   Land
